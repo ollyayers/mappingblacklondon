@@ -1,0 +1,61 @@
+Explanation of fields in MBL Individuals spreadsheet.
+
+Id: Identifying number for each individual entry.
+
+location_id: Identifying number for each location included on the spreadsheet. Location_ids are derived from the MBL Master Spreadsheet and are the same between each. Ex: l0273 is the Courthouse London Hotel.
+
+person_id: identifying number for each individual. Ex: p0425 is Charity Adams Early
+
+Name: Name of individual associated with that person_id.
+
+st_first: Street address for location.
+
+ad_hist: Historical name associated with the location.
+
+ad_city: City associated with location.
+
+post_code: UK post code for location.
+
+coords_lat: Latitude coordinates for associated location.
+
+coords_long: Longitude coordinates for associated location.
+
+Description: 2-3 sentences about the person, where they visited, and reason for visit.
+
+adult_child: Whether individual was an adult or child at the time.
+
+assoc_gender: Gender of the individual.
+
+communist_part_member: 1 if individual was member of the Communist Party, 0 if not.
+
+communist_party_orbit: 1 if individual was associated with members of the Communist Party, 0 if not.
+
+assoc_country: Country the person was from or was a citizen of before moving to London.
+
+cnty_...: 1 if the person was from that country, otherwise left blank.
+
+Second-gin and third_gen: Whether the individual's family had lived in London for successive generations.
+
+..._born: 1 if the person was born in that country, otherwise left blank.
+
+day_month_yr: Date individual visited the location.
+
+month_year: Month and year that the individual visited listed location.
+
+year_first: First year individual was in UK.
+
+year_last: Las year individual was in UK.
+
+Link: Link to resource or additional information.
+
+prim_source: What kind of source if it came from a historical document.
+
+Citation: Source title and date of publication. 
+
+Entrant: When the entry was added to the spreadsheet and who added it.
+
+
+
+
+
+
