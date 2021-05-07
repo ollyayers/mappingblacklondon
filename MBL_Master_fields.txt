@@ -1,0 +1,44 @@
+Fields for the MBL Master Spreadsheet, which deals with locations:
+
+id: Location id denoted as l001, etc. Ids are used in MBL Individuals spreadsheet for location information.
+
+st_first: Street address for location.
+
+ad_hist: Historical name associated with the location.
+
+ad_city: City associated with location.
+
+post_code: UK post code for location.
+
+coords_lat: Latitude coordinates for associated location.
+
+coords_long: Longitude coordinates for associated location.
+
+Description: 2-3 sentences describing the location, and why it has been included.
+
+more_info: Links to more information on the location.
+
+primary_source: In the case of appearing in primary source documents, field includes the type of sources.
+
+org_...: 1 if this location is related to or used by any major organization active in London that engaged in anti-colonial activism. Leave blank if no connection.
+
+day_month_yr: Exact date that the location appears in the source base.
+
+month_yr: Month and year the location appears in the source base.
+
+year_first: First year location was recorded in the source base.
+
+year_last: Las year location was recorded in the source base.
+
+1935-1947: 1 for each year that the location is present in the source base or known to still be active, else left blank.
+
+Citation: Source title and date of publication. 
+
+Entrant: When the entry was added to the spreadsheet and who added it.
+
+Residential: 1 if location was a residence, else left blank.
+
+res_cntry: Where were people that the location housed from? Only used if location was a residence.
+
+Faceted Descriptors: 1 in each column if the location was used in these ways, otherwise left blank.
+
